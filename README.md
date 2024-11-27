@@ -13,17 +13,18 @@ The Bone Clock es un juego de plataformas en el que el jugador controla a un esq
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/STYGames/TheBoneClock.git`
-2. Navega a la carpeta del proyecto: `cd TheBoneClock`
-3. Ejecuta el archivo de juego: `python main.py`
+1. Clona el repositorio: `git clone https://github.com/cvoult-g/The-Bone-Clock_GAME.git`
+2. Navega a la carpeta del proyecto: `cd The-Bone-Clock`
 
 ## Controles
 
 - `←` para moverse a la izquierda.
 - `→` para moverse a la derecha.
-- `↑` o `Espacio` para saltar.
+- `↑` o `Barra espaciadora` para saltar.
 - `e` para atacar.
-- 
+ 
+## Contribuyendo
+
 ## Contribuyendo
 
 Si deseas contribuir al proyecto, por favor sigue los siguientes pasos:
@@ -41,5 +42,5 @@ Este proyecto está bajo la licencia MIT. Ver archivo `LICENSE` para más detall
 ## Créditos
 
 - Desarrollador principal: CuriosVault
-- Arte y diseño: Pixivideos y Jesse Munguia
+- Arte y diseño: PixelCube y Jesse Munguia
 - Música y efectos de sonido: CuriosVoult
