@@ -21,9 +21,9 @@ The Bone Clock es un juego de plataformas en el que el jugador controla a un esq
 
 - `←` para moverse a la izquierda.
 - `→` para moverse a la derecha.
-- `↑` para saltar.
-- `Barra espaciadora` para atacar.
-
+- `↑` o `Espacio` para saltar.
+- `e` para atacar.
+- 
 ## Contribuyendo
 
 Si deseas contribuir al proyecto, por favor sigue los siguientes pasos:
